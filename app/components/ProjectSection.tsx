@@ -2,6 +2,15 @@ import { BoxArrowUpRight, Github } from "react-bootstrap-icons";
 
 const projects = [
   {
+    title: "Yoga Studio Website",
+    description:
+    "A modern web platform for a wellness studio, enabling clients to seamlessly browse schedules, book classes, manage user profiles, and purchase recurring memberships.",
+    image: "/islass.png",
+    tags: ["React", 'Tailwind Css', "Node.js", "Supabase"],
+    liveUrl: "https://isla-studio.vercel.app/",
+    repoUrl: "https://github.com/islaestudiomx/Isla-Studio",
+  },
+  {
     title: "Pilates Studio Platform",
     description:
       "Digital experience for a Pilates studio, allow clients book classes, manage their user profiles, and purchase memberships.",

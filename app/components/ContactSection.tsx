@@ -60,7 +60,7 @@ export default function ContactSection() {
         {/* Header */}
         <div className="text-center">
           <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full border border-white/10 bg-white/5 text-white/50 text-sm mb-6">
-            <Sparkles size={13} />
+            
             Let's collaborate
           </div>
           <h2 className="text-4xl md:text-5xl font-bold text-white tracking-tight mb-4">

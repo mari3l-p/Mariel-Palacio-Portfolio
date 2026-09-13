@@ -6,8 +6,7 @@ export default function Footer() {
       <div className="max-w-5xl mx-auto px-6 py-6 flex flex-col sm:flex-row items-center justify-between gap-4">
         {/* Copyright */}
         <p className="text-white/30 text-sm">
-          © 2026 Mariel Palacio Portfolio. Built using React, TypeScript &amp; Tailwind
-          CSS.
+          © 2026 Mariel Palacio Portfolio.
         </p>
 
         {/* Social links */}
